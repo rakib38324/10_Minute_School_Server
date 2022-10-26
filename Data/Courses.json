@@ -1,0 +1,22 @@
+[
+    {
+        "courses_id": "01",
+        "courses_name": "HTML",
+        "courses_details":"Hello details"
+    },
+    {
+        "courses_id": "02",
+        "courses_name": "CSS",
+        "courses_details":"Hello details"
+    },
+    {
+        "courses_id": "03",
+        "courses_name": "JavaScript",
+        "courses_details":"Hello details"
+    },
+    {
+        "courses_id": "04",
+        "courses_name": "NodeJS",
+        "courses_details":"Hello details"
+    }
+]
