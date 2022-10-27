@@ -10,10 +10,14 @@
         "courses_id": "02",
         "courses_name": "EEE Fundamental" 
     },
+
+
     {
         "courses_id": "03",
         "courses_name": "CSE Fundamental"
     },
+
+
     {
         "courses_id": "04",
         "courses_name": "Skill Development"
@@ -24,14 +28,19 @@
         "courses_id": "05",
         "courses_name": "Professional Courses"
     },
+
+
     {
         "courses_id": "06",
         "courses_name": "Kids' Courses"
     },
+
+
     {
         "courses_id": "07",
         "courses_name": "Learning English"
     },
+
     
     {
         "courses_id": "08",
