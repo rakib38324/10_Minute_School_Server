@@ -1,7 +1,6 @@
 [
     {
-        "_id": "201",
-        
+        "_id": "201", 
         "category_id": "01",
         "title": "Introduction to HTML5",
         "price":"200",
@@ -9,204 +8,184 @@
         "image_url": "https://www.ionos.com/digitalguide/fileadmin/DigitalGuide/Teaser/html-tagst.jpg",
         "details": "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities."
     },
+    
 
     {
         "_id": "202",
-        
         "category_id": "01",
         "title": "Introduction to CSS3",
         "price":"350",
         "already_enrolled":"700",
         "image_url": "https://miro.medium.com/max/600/1*OFsc0SD55jhi8cjo7aCA4w.jpeg",
-
         "details": "The web today is almost unrecognizable from the early days of white pages with lists of blue links.  Now, sites are designed with complex layouts, unique fonts, and customized color schemes.   This course will show you the basics of Cascading Style Sheets (CSS3).  The emphasis will be on learning how to write CSS rules, how to test code, and how to establish good programming habits. When done correctly, the styling of a webpage can take enhance your page.   When done incorrectly the result can be worse than no styling at all.    To ensure that your sites do not put up  barriers for people with cognitive and/or physical disabilities, you will learn how to evaluate pages using the standardized POUR accessibility guidelines."
     },
 
+
     {
-        "_id": "203",
-        
+        "_id": "203", 
         "category_id": "01",
         "title": "JavaScript for Beginners Specialization",
         "price":"400",
         "already_enrolled":"280",
         "image_url": "https://itchief.ru/assets/images/covers/javascript-statements.png",
-
         "details": "This Specialization is intended for the learner with no previous programming experience or the career changer transitioning to software development. JavaScript is generally the first programming language you will need to learn and this Specialization will help you practice and build your skills through a gentle progression of modules and courses."
     },
 
+
     {
-        "_id": "204",
-        
+        "_id": "204", 
         "category_id": "01",
         "title": "React Basics",
         "price":"300",
         "already_enrolled":"390",
         "image_url": "https://mechomotive.com/wp-content/uploads/2021/08/react.jpg",
-
         "details": "React is a powerful JavaScript library that you can use to build user interfaces for web and mobile applications (apps). In this course, you will explore the fundamental concepts that underpin the React library and learn the basic skills required to build a simple, fast, and scalable app."
     },
 
+
+
     {
-        "_id": "205",
-        
+        "_id": "205",       
         "category_id": "01",
         "title": "Server-side Development with NodeJS, Express and MongoDB",
         "price":"900",
         "already_enrolled":"820",
         "image_url": "https://miro.medium.com/max/750/0*3P4WhyFtuwCV5nTa.jpg",
-
         "details": "This course deals with all things server-side. We base the entire course around the NodeJS platform. We start with a brief overview of the Web protocols: HTTP and HTTPS. We examine NodeJS and NodeJS modules: Express for building web servers. On the database side, we review basic CRUD operations, NoSQL databases, in particular MongoDB and Mongoose for accessing MongoDB from NodeJS. We examine the REST concepts and building a RESTful API. We touch upon authentication and security. Finally we review backend as a service (BaaS) approaches, including mobile BaaS, both open-source and commercial BaaS services."
     },
 
+
     {
-        "_id": "206",
-        
+        "_id": "206",       
         "category_id": "02",
         "title": "Electrical Machines",
         "price":"450",
         "already_enrolled":"400",
         "image_url": "https://images.books24x7.com/bookimages/id_19464/fig50_01.jpg",
-
         "details": "Review of electromechanical Fundamentals: Faradays law of electromagnetic induction, Flemings rule and Lenzs law. Ideal transformer: principle of transformer action, polarity, no-load, under load, transformer ratio. Practical transformer: construction, equivalent circuit, voltage regulation, losses and efficiency, auto transformer, transformer tests. Three phase induction motor: operating principle, rotating magnetic field, slip and speed, classifications and types, equivalent circuit, power flow, losses and efficiency, mechanical power and developed torque, torque-speed characteristics, induction motor applications. Synchronous Generator: operating principle; construction type and exciter systems; equivalent circuit; vector diagram at different loads; voltage regulation; torque and power;"
     },
 
     
 
     {
-        "_id": "207",
-        
+        "_id": "207",     
         "category_id": "02",
         "title": "Electrical Power Systems",
         "price":"660",
         "already_enrolled":"490",
         "image_url": "https://electricalacademia.com/wp-content/uploads/2018/05/power-system.jpg",
-
         "details": "Network Representation: Single line and reactance diagram, per unit quantities. Line Model and Performance: Equivalent circuit of short, medium and long lines, traveling waves, surge impedance loading, complex power flow and line compensations. Network Calculation: Node equations, matrix partitioning, bus impedance and admittance matrix. Load Flow Analysis: Gauss-Seidel method. Synchronous Machine Transient Analysis: transient phenomena, synchronous machine transients, Park transformation. Symmetrical Faults: Symmetrical fault calculation methods, selection of circuit breakers. Symmetrical Components: Fortescus theorem, symmetrical components of unsymmetrical phasors, power in terms of symmetrical components, sequence circuits of symmetric transmission lines, synchronous machines and transformers, sequence networks. Asymmetrical "
     },
 
+
     {
-        "_id": "208",
-        
+        "_id": "208",       
         "category_id": "02",
         "title": "Digital Signal Processing",
         "price":"960",
         "already_enrolled":"820",
         "image_url": "https://www.ictacademy.in/pages/assets/base/img/content/stock/dsp.jpg",
-
         "details": "Introduction to Digital Signal Processing (DSP): Discrete-Time Signals and Systems, Analog to Digital Conversion, Linear Time-invariant system, Impulse response, Finite Impulse Response (FIR), Infinite (IIR) Impulse Response, Difference equation, Recursive, Non-Recursive Realization, Transient and Steady State Response, Correlation, Cross-correlation and Auto-correlation, Applications. Z-transforms: Properties, System Function, Location of Poles and Zeros, Effect on stability and Causality, Inverse Z-transform. Implementation structures of discrete time systems. Discrete Transforms: Discrete Fourier series, Discrete-Time Fourier Transform (DTFT), Properties, Discrete Fourier Transform (DFT), Properties, Linear Filtering Methods based on DFT."
     },
 
+
     {
-        "_id": "209",
-        
+        "_id": "209",       
         "category_id": "02",
         "title": "Numerical Methods",
         "price":"640",
         "already_enrolled":"420",
         "image_url": "https://www.bragitoff.com/wp-content/uploads/2017/07/num_app_logo.png",
-
         "details": "Introduction to numerical methods: root finding using bisection, regula-falsi, Newton-Raphsons method, Secant method and Jacobi. Interpolation: Lagranges polynomial, Newtons polynomial and Spline. Curve fitting: Least squares. Differential and Integration: numerical Integration-trapezoidal rule, Simpsons rule, recursive/Rhomberg integration and quadrature. Finite Difference: forward, backward and center difference, error analysis, and Richardsons extrapolation. Applications: system solution using ordinary and partial differential equations and eigen-analysis."
     },
 
 
     {
-        "_id": "210",
-        
+        "_id": "210",      
         "category_id": "03",
         "title": "Data Structures and Algorithms",
         "price":"840",
         "already_enrolled":"960",
         "image_url": "https://miro.medium.com/max/1400/1*-EFdnPuVrwUOmYte11v0OA.png",
-
         "details": "Computer science legend Donald Knuth once said “I dont understand things unless I try to program them.” We also believe that the best way to learn an algorithm is to program it. However, many excellent books and online courses on algorithms, that excel in introducing algorithmic ideas, have not yet succeeded in teaching you how to implement algorithms, the crucial computer science skill that you have to master at your next job interview. We tried to fill this gap by forming a diverse team of instructors that includes world-leading experts in theoretical and applied algorithms at UCSD (Daniel Kane, Alexander Kulikov, and Pavel Pevzner) and a former software engineer at Google (Neil Rhodes). This unique combination of skills makes this Specialization different from other excellent MOOCs on algorithms that are all developed by theoretical computer scientists. While these MOOCs focus on theory, our Specialization is a mix of algorithmic theory/practice/applications with software engineering. "
     },
 
+
     {
-        "_id": "211",
-        
+        "_id": "211",      
         "category_id": "03",
         "title": "Learn to Program: The Fundamentals",
         "price":"500",
         "already_enrolled":"1020",
         "image_url": "https://www.londonamb.com/wp-content/uploads/2021/10/program-272x161.png",
-
         "details": "Behind every mouse click and touch-screen tap, there is a computer program that makes things happen. This course introduces the fundamental building blocks of programming and teaches you how to write fun and useful programs using the Python language. "
     },
 
     {
-        "_id": "212",
-        
+        "_id": "212",      
         "category_id": "03",
         "title": "Object Oriented Programming in Java Specialization",
         "price":"500",
         "already_enrolled":"1020",
         "image_url": "https://devcount.com/wp-content/uploads/2021/12/15-Best-Object-Oriented-Programming-Courses-Online-in-2022-min.jpg",
-
         "details": "This Specialization is for aspiring software developers with some programming experience in at least one other programming language (e.g., Python, C, JavaScript, etc.) who want to be able to solve more complex problems through objected-oriented design with Java. In addition to learning Java, you will gain experience with two Java development environments (BlueJ and Eclipse), learn how to program with graphical user interfaces, and learn how to design programs capable of managing large amounts of data. These software engineering skills are broadly applicable across wide array of industries."
     },
 
+
     {
-        "_id": "213",
-        
+        "_id": "213",       
         "category_id": "04",
         "title": "Freelancing",
         "price":"990",
         "already_enrolled":"1890",
         "image_url": "https://lemon.io/wp-content/uploads/2020/03/pic-landing-best-freelance-platf-hero@3x.jpg",
-
         "details": "Learn freelancing online from the top-rated freelancing course in Bangladesh. Establish yourself in freelancing marketplaces, get your first client, build a successful portfolio, and make money online right from the comfort of your own home."
     },
 
     
 
     {
-        "_id": "214",
-        
+        "_id": "214",       
         "category_id": "04",
         "title": "Facebook Marketing",
         "price":"690",
         "already_enrolled":"290",
         "image_url": "https://comingtechs.com/wp-content/uploads/2021/11/facebook_marketing.png",
-
         "details": "Grow your business through Facebook Marketing. Define your ideal target audience, build a successful presence on the platform following our proven best practices, launch profitable digital campaigns that generate sales every day. Learn the nitty gritties of FB pages, groups, FB ads (boosting), branding, and more."
     },
 
+
     {
-        "_id": "215",
-        
+        "_id": "215",       
         "category_id": "04",
         "title": "Microsoft Excel",
         "price":"390",
         "already_enrolled":"990",
         "image_url": "https://icons.iconarchive.com/icons/guillendesign/variations-3/256/Microsoft-Excel-icon.png",
-
         "details": "Beginner to advanced Microsoft Excel tutorials. Navigate Excel like a pro, perform basic to complex calculations using Excel functions, formulas, tips & tricks. Use MS Excel for everything from data entry to professional data analysis. Also learn: advanced formulas, vlookups, pivot tables, conditional formatting, charts, graphs, etc."
     },
 
+   
     {
-        "_id": "216",
-        
+        "_id": "216",        
         "category_id": "04",
         "title": "Video Making",
         "price":"640",
         "already_enrolled":"590",
         "image_url": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_667993306_345619.jpg",
-
         "details": "Learn how to make amazing videos to hook your audience with your content. Take your first step to become a professional video maker. Enrol now to learn from professionals!"
     },
 
    
 
     {
-        "_id": "217",
-        
+        "_id": "217",    
         "category_id": "05",
         "title": "Leadership Excellence",
         "price":"820",
         "already_enrolled":"990",
         "image_url": "https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,w_624,h_351,c_scale,q_auto,f_auto/v1498200627/1498200626.jpg",
-
-        "details": "Learn how to develop leadership skills and become a better leader to start leading your team and living your dream."
+      "details": "Learn how to develop leadership skills and become a better leader to start leading your team and living your dream."
     },
     {
         "_id": "218",
